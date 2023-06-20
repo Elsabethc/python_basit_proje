@@ -1,0 +1,1 @@
+# python_basit_proje
